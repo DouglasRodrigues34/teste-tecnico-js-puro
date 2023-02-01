@@ -1,2 +1,4 @@
-# teste-tecnico-js-puro
+# Teste técnico js puro
+
+
 Resolvendo um teste técnico em JavaScript puro (destructuring, split, array, objeto, reduce)
